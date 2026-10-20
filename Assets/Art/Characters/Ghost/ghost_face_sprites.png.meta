@@ -1,0 +1,964 @@
+fileFormatVersion: 2
+guid: 653f92b47b7339c4480c20d6d5e8b572
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6723073159936781569
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_0
+  - first:
+      213: -6331344501457289914
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_1
+  - first:
+      213: 4737374144370934321
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_2
+  - first:
+      213: 4952719991833791049
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_3
+  - first:
+      213: -4094304070824532532
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_4
+  - first:
+      213: -8333120536874237548
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_5
+  - first:
+      213: -375821301142618597
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_6
+  - first:
+      213: 4140660614177299731
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_7
+  - first:
+      213: 1758059486150290361
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_8
+  - first:
+      213: -2271019052659382098
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_9
+  - first:
+      213: -8495077555357226672
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_10
+  - first:
+      213: 7235486323265137764
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_11
+  - first:
+      213: -5263816631409425938
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_12
+  - first:
+      213: -5036483528005315157
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_13
+  - first:
+      213: 7039492557671475886
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_14
+  - first:
+      213: -5105428109134241021
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_15
+  - first:
+      213: -7020031380076851782
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_16
+  - first:
+      213: -6804453490792930611
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_17
+  - first:
+      213: -2206926439395493861
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_18
+  - first:
+      213: 542743093345221080
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_19
+  - first:
+      213: 8751862227579497994
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_20
+  - first:
+      213: 7011892534461806198
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_21
+  - first:
+      213: -235402000105223485
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_22
+  - first:
+      213: 428140606466956445
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_23
+  - first:
+      213: -4048831364697311696
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_24
+  - first:
+      213: 5827125146462629963
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_25
+  - first:
+      213: 7062278835799833152
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_26
+  - first:
+      213: 5172302345566879425
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_27
+  - first:
+      213: 896292147486542153
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_28
+  - first:
+      213: -7789273722186311139
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_29
+  - first:
+      213: 9128324623928209887
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_30
+  - first:
+      213: -1997009584494135408
+    second: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 942
+        width: 74
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10daef82b672d4d50800000000000000
+      internalID: 6723073159936781569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 941
+        width: 74
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64df30888bb8228a0800000000000000
+      internalID: -6331344501457289914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 941
+        width: 75
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13289534fa88eb140800000000000000
+      internalID: 4737374144370934321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 936
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a8a3987989bb440800000000000000
+      internalID: 4952719991833791049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 934
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc56110e32c1e27c0800000000000000
+      internalID: -4094304070824532532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 933
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4914911c50fca5c80800000000000000
+      internalID: -8333120536874237548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 799
+        width: 73
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e7e5e8480d8caf0800000000000000
+      internalID: -375821301142618597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 797
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d1d73f3e4967930800000000000000
+      internalID: 4140660614177299731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 657
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb6efdb9c1e56810800000000000000
+      internalID: 1758059486150290361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 657
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8e7183438bb70e0800000000000000
+      internalID: -2271019052659382098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 657
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059e985e8fb6b1a80800000000000000
+      internalID: -8495077555357226672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 657
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c6a6bc97c996460800000000000000
+      internalID: 7235486323265137764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 523
+        width: 89
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee14c02a9aa23f6b0800000000000000
+      internalID: -5263816631409425938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 534
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5132c6ae0da1ab0800000000000000
+      internalID: -5036483528005315157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 402
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaa3033f2d41b160800000000000000
+      internalID: 7039492557671475886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 401
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30362c83f20e529b0800000000000000
+      internalID: -5105428109134241021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 399
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd8c6e47a6d39e90800000000000000
+      internalID: -7020031380076851782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 402
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2ee960a99b191a0800000000000000
+      internalID: -6804453490792930611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_18
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 405
+        width: 107
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18f96e981c6f51e0800000000000000
+      internalID: -2206926439395493861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_19
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 397
+        width: 129
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d97323c7f5388700800000000000000
+      internalID: 542743093345221080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ee80e935cd47970800000000000000
+      internalID: 8751862227579497994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 276
+        width: 113
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6763fc70c1f3f4160800000000000000
+      internalID: 7011892534461806198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 276
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cacf4cc02fabbcf0800000000000000
+      internalID: -235402000105223485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_23
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 276
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c126afc9f01f500800000000000000
+      internalID: 428140606466956445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 270
+        width: 97
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036b1cf4359afc7c0800000000000000
+      internalID: -4048831364697311696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 147
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40b6a0827b1ed050800000000000000
+      internalID: 5827125146462629963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 143
+        width: 115
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04abb900f21420260800000000000000
+      internalID: 7062278835799833152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 136
+        width: 111
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cefe6a4495b7c740800000000000000
+      internalID: 5172302345566879425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 10
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94948e995f4407c00800000000000000
+      internalID: 896292147486542153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1adccaa1d0f6e390800000000000000
+      internalID: -7789273722186311139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_30
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 122
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd131bba1e25eae70800000000000000
+      internalID: 9128324623928209887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 9
+        width: 99
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0973d2f0d523944e0800000000000000
+      internalID: -1997009584494135408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_0: 6723073159936781569
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_1: -6331344501457289914
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_10: -8495077555357226672
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_11: 7235486323265137764
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_12: -5263816631409425938
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_13: -5036483528005315157
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_14: 7039492557671475886
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_15: -5105428109134241021
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_16: -7020031380076851782
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_17: -6804453490792930611
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_18: -2206926439395493861
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_19: 542743093345221080
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_2: 4737374144370934321
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_20: 8751862227579497994
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_21: 7011892534461806198
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_22: -235402000105223485
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_23: 428140606466956445
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_24: -4048831364697311696
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_25: 5827125146462629963
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_26: 7062278835799833152
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_27: 5172302345566879425
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_28: 896292147486542153
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_29: -7789273722186311139
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_3: 4952719991833791049
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_30: 9128324623928209887
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_31: -1997009584494135408
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_4: -4094304070824532532
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_5: -8333120536874237548
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_6: -375821301142618597
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_7: 4140660614177299731
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_8: 1758059486150290361
+      cvs_ghost_face_sprites_by_xxultra2006xx_dfh2eaa_9: -2271019052659382098
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

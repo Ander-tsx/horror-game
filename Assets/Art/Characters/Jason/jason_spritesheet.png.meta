@@ -1,0 +1,1666 @@
+fileFormatVersion: 2
+guid: cf3680d300bba07409e5703051966aa8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7935303801948670248
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_0
+  - first:
+      213: -127039705085003885
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_1
+  - first:
+      213: -3501625809858317904
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_2
+  - first:
+      213: -4342725659507693953
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_3
+  - first:
+      213: -755928235205251639
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_4
+  - first:
+      213: -2896344266084990065
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_5
+  - first:
+      213: -2648274436031789049
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_6
+  - first:
+      213: 5285368140037294389
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_7
+  - first:
+      213: -6041399237642331870
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_8
+  - first:
+      213: -955108369219481156
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_9
+  - first:
+      213: 144551154924660263
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_10
+  - first:
+      213: 8466480631986588071
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_11
+  - first:
+      213: -6577653195402685403
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_12
+  - first:
+      213: -7543966264479097227
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_13
+  - first:
+      213: -7926623386015601078
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_14
+  - first:
+      213: -5865245508333197626
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_15
+  - first:
+      213: 2508030826518987039
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_16
+  - first:
+      213: -6978568356111679318
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_17
+  - first:
+      213: 1427001389106022033
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_18
+  - first:
+      213: 4962168894229187369
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_19
+  - first:
+      213: -8005088929370114216
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_20
+  - first:
+      213: 7815229016578633300
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_21
+  - first:
+      213: 5426950183947842450
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_22
+  - first:
+      213: -5323522023147471469
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_23
+  - first:
+      213: -5021367205910012605
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_24
+  - first:
+      213: 386775634980763269
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_25
+  - first:
+      213: -2297966614444639539
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_26
+  - first:
+      213: 1444438746819310030
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_27
+  - first:
+      213: -698342929758916225
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_28
+  - first:
+      213: 7017364107945023494
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_29
+  - first:
+      213: 6840650207491071696
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_30
+  - first:
+      213: 3546247937915188285
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_31
+  - first:
+      213: -4077921892063251438
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_32
+  - first:
+      213: -4206468926352779832
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_33
+  - first:
+      213: -1987720504931329829
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_34
+  - first:
+      213: -4081260325132258627
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_35
+  - first:
+      213: 97681536136728160
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_36
+  - first:
+      213: -1431791262413435988
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_37
+  - first:
+      213: 3104360839073776044
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_38
+  - first:
+      213: 8376890680340764298
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_39
+  - first:
+      213: -6015436075715995887
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_40
+  - first:
+      213: -6318414352607363268
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_41
+  - first:
+      213: -4478916800232155186
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_42
+  - first:
+      213: 9151630471654033416
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_43
+  - first:
+      213: -4777872041003218448
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_44
+  - first:
+      213: 8863529700757088623
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_45
+  - first:
+      213: 1064264707908002767
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_46
+  - first:
+      213: -644657779595354449
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_47
+  - first:
+      213: -7456255300700767681
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_48
+  - first:
+      213: -7222960017707182640
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_49
+  - first:
+      213: -1014878817424602356
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_50
+  - first:
+      213: -5797021522388545018
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_51
+  - first:
+      213: 8305440288795871647
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_52
+  - first:
+      213: 3974813604918450594
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_53
+  - first:
+      213: -2495464666360286603
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_54
+  - first:
+      213: -3166170644591503466
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_55
+  - first:
+      213: -4815395177684180888
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_56
+  - first:
+      213: 7968404750397912271
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_57
+  - first:
+      213: 7656796960567805717
+    second: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 938
+        width: 69
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82905fbc3ccdf1e60800000000000000
+      internalID: 7935303801948670248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 938
+        width: 69
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397b902bf0aac3ef0800000000000000
+      internalID: -127039705085003885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 937
+        width: 70
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b13e0bd0e9b76fc0800000000000000
+      internalID: -3501625809858317904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 938
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76e11c750a8bb3c0800000000000000
+      internalID: -4342725659507693953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_4
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 938
+        width: 71
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd27e076476285f0800000000000000
+      internalID: -755928235205251639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 938
+        width: 71
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83c3c84c3e1ec7d0800000000000000
+      internalID: -2896344266084990065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 939
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708c39c7e607f3bd0800000000000000
+      internalID: -2648274436031789049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 938
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539071ef156695940800000000000000
+      internalID: 5285368140037294389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 938
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229530ee663a82ca0800000000000000
+      internalID: -6041399237642331870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 809
+        width: 70
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb19ba2aff5ceb2f0800000000000000
+      internalID: -955108369219481156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 807
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7262821728c810200800000000000000
+      internalID: 144551154924660263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 809
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a90947074bfe7570800000000000000
+      internalID: 8466480631986588071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 809
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5245f48c44b77b4a0800000000000000
+      internalID: -6577653195402685403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 79
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e5130f6a27e4790800000000000000
+      internalID: -7543966264479097227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 675
+        width: 84
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e6c38070afef190800000000000000
+      internalID: -7926623386015601078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 675
+        width: 84
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6285b19467a9ea0800000000000000
+      internalID: -5865245508333197626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 675
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11c464afb05ec220800000000000000
+      internalID: 2508030826518987039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_17
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 675
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa08e2ddd05272f90800000000000000
+      internalID: -6978568356111679318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_18
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 675
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19647abe33abdc310800000000000000
+      internalID: 1427001389106022033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_19
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 675
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b0600915a2dd440800000000000000
+      internalID: 4962168894229187369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_20
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 674
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8577b71180638e090800000000000000
+      internalID: -8005088929370114216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_21
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 675
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eae7b3265457c60800000000000000
+      internalID: 7815229016578633300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_22
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 673
+        width: 67
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293b3f76076605b40800000000000000
+      internalID: 5426950183947842450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 525
+        width: 69
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d7358dcec0f16b0800000000000000
+      internalID: -5323522023147471469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 537
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d10fc6125805ab0800000000000000
+      internalID: -5021367205910012605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 528
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586fdca046a1e5500800000000000000
+      internalID: 386775634980763269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 78
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaf1501a8bfb10e0800000000000000
+      internalID: -2297966614444639539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 387
+        width: 112
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1b9f3236dab0410800000000000000
+      internalID: 1444438746819310030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 387
+        width: 6
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71705c2eccfe46f0800000000000000
+      internalID: -698342929758916225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 388
+        width: 94
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60893a10a7fa26160800000000000000
+      internalID: 7017364107945023494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_30
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 387
+        width: 77
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de1532de1fdeee50800000000000000
+      internalID: 6840650207491071696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_31
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 388
+        width: 147
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3475e0f5bdc63130800000000000000
+      internalID: 3546247937915188285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_32
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 388
+        width: 142
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214f7c915af4867c0800000000000000
+      internalID: -4077921892063251438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_33
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 389
+        width: 71
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5160e5cce9f95c0800000000000000
+      internalID: -4206468926352779832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_34
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 389
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8dece6bb23a64e0800000000000000
+      internalID: -1987720504931329829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_35
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 389
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2b8949b537c57c0800000000000000
+      internalID: -4081260325132258627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 79
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e4b8ee6d80b5100800000000000000
+      internalID: 97681536136728160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 265
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabc65bce61412ce0800000000000000
+      internalID: -1431791262413435988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 266
+        width: 6
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca140ab4cb7e41b20800000000000000
+      internalID: 3104360839073776044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 265
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86ddfbe0b1b04470800000000000000
+      internalID: 8376890680340764298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_40
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 265
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117d0e1a2c0e48ca0800000000000000
+      internalID: -6015436075715995887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_41
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 265
+        width: 149
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fbb196f9b7058a0800000000000000
+      internalID: -6318414352607363268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_42
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 266
+        width: 140
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec712a786e0b7d1c0800000000000000
+      internalID: -4478916800232155186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_43
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 139
+        width: 119
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80844923d6f110f70800000000000000
+      internalID: 9151630471654033416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_44
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 255
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f98bb561b691bdb0800000000000000
+      internalID: -4777872041003218448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_45
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 258
+        width: 124
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6920c54d45910b70800000000000000
+      internalID: 8863529700757088623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc367d5fc1705ce00800000000000000
+      internalID: 1064264707908002767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_47
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 138
+        width: 108
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faed68d3a27bd07f0800000000000000
+      internalID: -644657779595354449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_48
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 139
+        width: 6
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a7b171f4f068890800000000000000
+      internalID: -7456255300700767681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_49
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 138
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5d6bdf124e2cb90800000000000000
+      internalID: -7222960017707182640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_50
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 138
+        width: 147
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b8655b71d6ae1f0800000000000000
+      internalID: -1014878817424602356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_51
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 138
+        width: 6
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6029cbaa3a7dc8fa0800000000000000
+      internalID: -5797021522388545018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_52
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 138
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9945e440f9d24370800000000000000
+      internalID: 8305440288795871647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 84
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9dd890aef592730800000000000000
+      internalID: 3974813604918450594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 16
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5727e048b145e5dd0800000000000000
+      internalID: -2495464666360286603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_55
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6979ad6e2908f04d0800000000000000
+      internalID: -3166170644591503466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_56
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2
+        width: 89
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860610559974c2db0800000000000000
+      internalID: -4815395177684180888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_57
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 31
+        width: 123
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4b00ee6e5759e60800000000000000
+      internalID: 7968404750397912271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_58
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 28
+        width: 103
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5174fe7a448624a60800000000000000
+      internalID: 7656796960567805717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_0: 7935303801948670248
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_1: -127039705085003885
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_10: 144551154924660263
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_11: 8466480631986588071
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_12: -6577653195402685403
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_13: -7543966264479097227
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_14: -7926623386015601078
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_15: -5865245508333197626
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_16: 2508030826518987039
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_17: -6978568356111679318
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_18: 1427001389106022033
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_19: 4962168894229187369
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_2: -3501625809858317904
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_20: -8005088929370114216
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_21: 7815229016578633300
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_22: 5426950183947842450
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_23: -5323522023147471469
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_24: -5021367205910012605
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_25: 386775634980763269
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_26: -2297966614444639539
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_27: 1444438746819310030
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_28: -698342929758916225
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_29: 7017364107945023494
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_3: -4342725659507693953
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_30: 6840650207491071696
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_31: 3546247937915188285
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_32: -4077921892063251438
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_33: -4206468926352779832
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_34: -1987720504931329829
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_35: -4081260325132258627
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_36: 97681536136728160
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_37: -1431791262413435988
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_38: 3104360839073776044
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_39: 8376890680340764298
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_4: -755928235205251639
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_40: -6015436075715995887
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_41: -6318414352607363268
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_42: -4478916800232155186
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_43: 9151630471654033416
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_44: -4777872041003218448
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_45: 8863529700757088623
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_46: 1064264707908002767
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_47: -644657779595354449
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_48: -7456255300700767681
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_49: -7222960017707182640
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_5: -2896344266084990065
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_50: -1014878817424602356
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_51: -5797021522388545018
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_52: 8305440288795871647
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_53: 3974813604918450594
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_54: -2495464666360286603
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_55: -3166170644591503466
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_56: -4815395177684180888
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_57: 7968404750397912271
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_58: 7656796960567805717
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_6: -2648274436031789049
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_7: 5285368140037294389
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_8: -6041399237642331870
+      jason_voorhees_sprites_by_xxultra2006xx_dfgsawi_9: -955108369219481156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
