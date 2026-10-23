@@ -119,7 +119,122 @@ public class KeyboardInput : IInputSource
     }
 }
 
-// Merges several sources (used by menus so either player can navigate).
+// Decides which side each connected gamepad drives. The first pad goes to `firstPadSide` (always P1 against the
+// CPU), a second pad to the other side. Keyboards keep working alongside, so pad + keyboard is the default 2P setup.
+public class PadAssignment
+{
+    public int firstPadSide;
+    public bool vsCpu;
+
+    public Gamepad For(int side)
+    {
+        int first = vsCpu ? 0 : firstPadSide;
+        int index = side == first ? 0 : 1;
+        var pads = Gamepad.all;
+        return index < pads.Count ? pads[index] : null;
+    }
+}
+
+public class GamepadInput : IInputSource
+{
+    private const float DoubleTapSeconds = 0.22f;
+    private const float StickDeadZone = 0.5f;
+    private readonly PadAssignment assignment;
+    private readonly int side;
+    private Gamepad device;
+    private bool wasLeft, wasRight, wasUp, wasDown;
+    private bool wasWest, wasNorth, wasSouth, wasEast, wasShoulder, wasStart;
+    private InputFrame pending;
+    private float lastLeft = -1f, lastRight = -1f;
+
+    public GamepadInput(PadAssignment assignment, int side)
+    {
+        this.assignment = assignment;
+        this.side = side;
+    }
+
+    public void Sample()
+    {
+        Gamepad pad = assignment.For(side);
+        if (pad != device)
+        {
+            // Pad swapped or unplugged: drop held state so nothing sticks.
+            device = pad;
+            wasLeft = wasRight = wasUp = wasDown = false;
+            // Treat buttons as held so a press made on the old pad (or before plugging in) does not fire.
+            wasWest = wasNorth = wasSouth = wasEast = wasShoulder = wasStart = true;
+            pending.x = 0;
+            pending.up = pending.down = false;
+        }
+        if (pad == null)
+            return;
+
+        Vector2 stick = pad.leftStick.ReadValue();
+        bool left = pad.dpad.left.isPressed || stick.x < -StickDeadZone;
+        bool right = pad.dpad.right.isPressed || stick.x > StickDeadZone;
+        bool up = pad.dpad.up.isPressed || stick.y > StickDeadZone;
+        bool down = pad.dpad.down.isPressed || stick.y < -StickDeadZone;
+        pending.x = (right ? 1 : 0) - (left ? 1 : 0);
+        pending.up = up;
+        pending.down = down;
+
+        pending.upPressed |= up && !wasUp;
+        pending.downPressed |= down && !wasDown;
+        bool leftTap = left && !wasLeft;
+        bool rightTap = right && !wasRight;
+        wasLeft = left;
+        wasRight = right;
+        wasUp = up;
+        wasDown = down;
+        pending.leftPressed |= leftTap;
+        pending.rightPressed |= rightTap;
+        float now = Time.unscaledTime;
+        if (leftTap)
+        {
+            pending.dashLeft |= lastLeft >= 0f && now - lastLeft < DoubleTapSeconds;
+            lastLeft = pending.dashLeft ? -1f : now;
+            lastRight = -1f;
+        }
+        if (rightTap)
+        {
+            pending.dashRight |= lastRight >= 0f && now - lastRight < DoubleTapSeconds;
+            lastRight = pending.dashRight ? -1f : now;
+            lastLeft = -1f;
+        }
+
+        // Xbox layout names: X light, Y heavy, A kick, B / RB grab. A or Start confirms, B goes back.
+        // Edges are tracked here (not wasPressedThisFrame) so a pad swap never replays a stale press.
+        bool light = Edge(ref wasWest, pad.buttonWest.isPressed);
+        bool heavy = Edge(ref wasNorth, pad.buttonNorth.isPressed);
+        bool kick = Edge(ref wasSouth, pad.buttonSouth.isPressed);
+        bool back = Edge(ref wasEast, pad.buttonEast.isPressed);
+        bool shoulder = Edge(ref wasShoulder, pad.rightShoulder.isPressed);
+        bool start = Edge(ref wasStart, pad.startButton.isPressed);
+        pending.light |= light;
+        pending.heavy |= heavy;
+        pending.kick |= kick;
+        pending.grab |= back || shoulder;
+        pending.start |= start;
+        pending.confirm |= kick || start;
+        pending.cancel |= back;
+    }
+
+    private static bool Edge(ref bool was, bool now)
+    {
+        bool pressed = now && !was;
+        was = now;
+        return pressed;
+    }
+
+    public InputFrame Consume()
+    {
+        InputFrame frame = pending;
+        pending = new InputFrame { x = frame.x, up = frame.up, down = frame.down };
+        return frame;
+    }
+}
+
+// Merges several sources (one player's keyboard + gamepad, or menus where either player can navigate).
 public class MergedInput : IInputSource
 {
     private readonly IInputSource[] sources;
@@ -131,6 +246,8 @@ public class MergedInput : IInputSource
 
     public void Sample()
     {
+        foreach (IInputSource source in sources)
+            source.Sample();
     }
 
     public InputFrame Consume()

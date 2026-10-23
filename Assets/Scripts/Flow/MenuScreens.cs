@@ -50,8 +50,14 @@ public class ModeScreen : GameScreen
         menu = new MenuList(ui, flow.audio, new[]
         {
             "1 JUGADOR VS CPU", "2 JUGADORES", "CPU: " + Difficulty[flow.cpuSkillLevel],
-            "CRT: " + (flow.display.CrtEnabled ? "SI" : "NO"), "CONTROLES"
-        }, -12f, 18f);
+            "CRT: " + (flow.display.CrtEnabled ? "SI" : "NO"), PadLabel(), "CONTROLES"
+        }, -6f, 16f);
+    }
+
+    // Which side the first gamepad drives in 2 player mode (against the CPU it is always player 1).
+    private string PadLabel()
+    {
+        return "MANDO: JUGADOR " + ((flow.pads?.firstPadSide ?? 0) + 1);
     }
 
     public override void Tick(InputFrame p1, InputFrame p2)
@@ -92,6 +98,11 @@ public class ModeScreen : GameScreen
                 menu.SetLabel(3, "CRT: " + (flow.display.CrtEnabled ? "SI" : "NO"));
                 break;
             case 4:
+                if (flow.pads != null)
+                    flow.pads.firstPadSide = 1 - flow.pads.firstPadSide;
+                menu.SetLabel(4, PadLabel());
+                break;
+            case 5:
                 ShowControls();
                 break;
         }
@@ -120,11 +131,13 @@ public class ModeScreen : GameScreen
             new PixelText(controls, "small", right[i], new Vector2(8f, 78f - i * 12f), TextAlign.Left,
                 Layers.Overlay - 10, color);
         }
-        new PixelText(controls, "small", "COMBOS: F F F / G G / H H   ATRAS = BLOQUEAR", new Vector2(0f, -56f),
+        new PixelText(controls, "small", "COMBOS: F F F / G G / H H   ATRAS = BLOQUEAR", new Vector2(0f, -54f),
             TextAlign.Center, Layers.Overlay - 10, new Color(1f, 0.85f, 0.5f));
-        new PixelText(controls, "small", "ESC: PAUSA   F1: FILTRO CRT", new Vector2(0f, -70f), TextAlign.Center,
-            Layers.Overlay - 10, new Color(1f, 0.85f, 0.5f));
-        new PixelText(controls, "small", "FATALITY: G DECAPITA  H EN TROZOS  F/R EXPLOTA", new Vector2(0f, -86f),
+        new PixelText(controls, "small", "MANDO: X GOLPE  Y FUERTE  A PATADA  B AGARRE", new Vector2(0f, -66f),
+            TextAlign.Center, Layers.Overlay - 10, new Color(0.6f, 1f, 0.6f));
+        new PixelText(controls, "small", "ESC / START: PAUSA   F1: FILTRO CRT", new Vector2(0f, -78f),
+            TextAlign.Center, Layers.Overlay - 10, new Color(1f, 0.85f, 0.5f));
+        new PixelText(controls, "small", "FATALITY: G DECAPITA  H EN TROZOS  F/R EXPLOTA", new Vector2(0f, -90f),
             TextAlign.Center, Layers.Overlay - 10, new Color(1f, 0.4f, 0.4f));
     }
 }

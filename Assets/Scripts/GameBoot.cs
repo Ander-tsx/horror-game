@@ -20,8 +20,11 @@ public class GameBoot : MonoBehaviour
         QualitySettings.vSyncCount = 1;
         display = new RetroDisplay(transform);
         audio = new AudioManager(transform);
-        flow = new GameFlow(transform, display, audio, new KeyboardInput(KeyBindings.PlayerOne),
-            new KeyboardInput(KeyBindings.PlayerTwo));
+        PadAssignment pads = new PadAssignment();
+        flow = new GameFlow(transform, display, audio,
+            new MergedInput(new KeyboardInput(KeyBindings.PlayerOne), new GamepadInput(pads, 0)),
+            new MergedInput(new KeyboardInput(KeyBindings.PlayerTwo), new GamepadInput(pads, 1)));
+        flow.pads = pads;
 
         if (quickFight)
         {

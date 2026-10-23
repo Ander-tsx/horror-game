@@ -28,7 +28,7 @@ public class FightScreen : GameScreen
                 flow.Go(new TitleScreen());
             return;
         }
-        if (flow.escapePressed && endTicks < 0)
+        if ((flow.escapePressed || p1.start || p2.start) && endTicks < 0)
         {
             OpenPause();
             return;

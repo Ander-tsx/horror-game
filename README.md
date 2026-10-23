@@ -28,6 +28,24 @@ de Halloween. Gore pixel art, desmembramiento, FINISH HIM / FATALITY, filtro CRT
 - **FINISH HIM:** fuerte = decapitación, patada = en trozos, golpe o agarre = explota en mil pedazos.
 - `Esc` pausa, `F1` activa o desactiva el filtro CRT, `Enter` o `F` para confirmar en menús.
 
+### Mando (gamepad)
+
+Se puede jugar con un mando (Xbox, PlayStation o genérico) junto al teclado: uno con mando y otro con teclado.
+
+| Acción | Mando (Xbox / PlayStation) |
+|---|---|
+| Moverse / saltar / agacharse | Stick izquierdo o cruceta |
+| Golpe | `X` / `□` |
+| Golpe fuerte | `Y` / `△` |
+| Patada | `A` / `✕` |
+| Agarre | `B` / `○` o `RB` / `R1` |
+| Pausa | `Start` / `Options` o `Back` / `Share` |
+
+- En menús: `A` / `✕` o `Start` confirma, `B` / `○` regresa.
+- Contra el CPU el mando siempre es el Jugador 1. En **2 JUGADORES**, la opción **MANDO** del menú principal elige
+  si el mando juega como Jugador 1 (el otro usa flechas) o Jugador 2 (el otro usa WASD). Con dos mandos, el segundo
+  toma el otro lado.
+
 ## Abrir el proyecto
 
 1. Instala **Unity 6000.6.4f1** con Unity Hub (con soporte WebGL / Windows / Mac si quieres compilar).

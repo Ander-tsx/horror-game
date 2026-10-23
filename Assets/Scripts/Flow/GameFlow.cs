@@ -69,6 +69,8 @@ public class GameFlow
     public int cpuSkillLevel = 1;
     public bool escapePressed;
     public int tick;
+    // Null when the flow is driven by scripted input (captures, tests).
+    public PadAssignment pads;
 
     private GameScreen current, pending;
     private readonly SpriteRenderer fade;
@@ -107,8 +109,12 @@ public class GameFlow
     // Reads keyboard state every rendered frame so quick taps between ticks are kept.
     public void Sample()
     {
+        if (pads != null)
+            pads.vsCpu = mode == GameMode.VsCpu;
         input1.Sample();
         input2.Sample();
+        foreach (Gamepad pad in Gamepad.all)
+            escapePressed |= pad.selectButton.wasPressedThisFrame;
         Keyboard keyboard = Keyboard.current;
         if (keyboard == null)
             return;
