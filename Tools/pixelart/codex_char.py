@@ -22,7 +22,7 @@ SRC = os.path.join(ROOT, "Tools", "art_src")
 OUT = os.path.join(ROOT, "Assets", "Resources", "Characters")
 PREVIEW = os.path.join(ROOT, "Tools", "out")
 
-TARGET_HEIGHT = {"jason": 94, "ghost": 90, "llorona": 90}
+TARGET_HEIGHT = {"jason": 94, "ghost": 90, "llorona": 90, "shrek": 96, "bailarina": 86}
 
 # Health is doubled from the first version so fights last long enough to lose limbs.
 STATS = {
@@ -30,10 +30,14 @@ STATS = {
               "gravity": 0.52, "pushWidth": 28, "weight": 1.0},
     "ghost": {"health": 2000, "walkSpeed": 2.1, "backSpeed": 1.75, "jumpVelocity": 7.8, "jumpForward": 3.1,
               "gravity": 0.52, "pushWidth": 24, "weight": 1.0},
+    "shrek": {"health": 2400, "walkSpeed": 1.5, "backSpeed": 1.25, "jumpVelocity": 7.2, "jumpForward": 2.4,
+              "gravity": 0.54, "pushWidth": 32, "weight": 1.2},
+    "bailarina": {"health": 1800, "walkSpeed": 2.2, "backSpeed": 2.0, "jumpVelocity": 8.4, "jumpForward": 3.4,
+                  "gravity": 0.5, "pushWidth": 22, "weight": 0.8},
     "llorona": {"health": 1900, "walkSpeed": 1.95, "backSpeed": 1.8, "jumpVelocity": 8.0, "jumpForward": 3.2,
                 "gravity": 0.5, "pushWidth": 24, "weight": 0.9},
 }
-ACCENT = {"jason": "#9fc26a", "ghost": "#9fb6ff", "llorona": "#ff7ab6"}
+ACCENT = {"jason": "#9fc26a", "ghost": "#9fb6ff", "llorona": "#ff7ab6", "shrek": "#a6e04a", "bailarina": "#ff9fd2"}
 FRAME_W, FRAME_H = 160, 156
 PIVOT_X = 80
 COLUMNS = 24
@@ -416,7 +420,7 @@ def chain(*pairs):
 def base_moves(char_id, anim_frames, blade_hit):
     """Full-body move list (fast arcade frame data). anim_frames maps animation name -> frame count."""
     slow = 1 if char_id == "jason" else 0
-    dmg = {"jason": 1.15, "ghost": 1.0, "llorona": 0.95}.get(char_id, 1.0)
+    dmg = {"jason": 1.15, "ghost": 1.0, "llorona": 0.95, "shrek": 1.2, "bailarina": 0.9}.get(char_id, 1.0)
     f = anim_frames
     d = lambda v: int(round(v * dmg))
     return [
@@ -457,7 +461,8 @@ def base_moves(char_id, anim_frames, blade_hit):
         move("special", "forward+heavy", "stand", "special", f["special"], 9 + slow, 8, 14, d(110),
              lunge=7.0 if char_id == "ghost" else 6.0, knockdown=True, dismember=0.15, hit=blade_hit + "_heavy",
              whiff="whoosh_heavy", shake=0.7, hitstop=10, blood=16,
-             name={"ghost": "LUNGE STAB", "jason": "MACHETE RUSH", "llorona": "LAMENTO"}.get(char_id, "SPECIAL")),
+             name={"ghost": "LUNGE STAB", "jason": "MACHETE RUSH", "llorona": "LAMENTO", "shrek": "PANZAZO",
+                   "bailarina": "PIRUETA DE OLLA"}.get(char_id, "SPECIAL")),
     ]
 
 
@@ -499,7 +504,7 @@ def build(char_id):
     src = os.path.join(SRC, char_id)
     out_dir = os.path.join(OUT, char_id)
     os.makedirs(out_dir, exist_ok=True)
-    blade_hit = "stab" if char_id == "ghost" else "slash"
+    blade_hit = {"ghost": "stab", "shrek": "hit", "bailarina": "stab"}.get(char_id, "slash")
 
     # Fixed template scale: standing height between the guide lines becomes TARGET_HEIGHT game pixels.
     strips = {}

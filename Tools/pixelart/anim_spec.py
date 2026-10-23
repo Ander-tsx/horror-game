@@ -41,6 +41,30 @@ CHARACTERS["llorona"] = {
     "special": "LAMENTO: a ghostly screaming lunge forward with both clawed hands extended",
 }
 
+CHARACTERS["shrek"] = {
+    "name": "SHREK",
+    "subtitle": "EL OGRO DEL PANTANO",
+    "look": ("Shrek-style swamp ogre: huge, wide and round-bellied, bright green skin, bald round head with two short "
+             "trumpet-shaped ears, thick brow, big grin, small eyes. Loose cream linen tunic, dark brown rough leather "
+             "vest, brown belt, dark brown trousers and worn leather boots. Fights with his big bare green fists. Heavy, "
+             "rough, comedic but brutal body language; a bit of mud on his clothes."),
+    "weapon": "fists",
+    "special": "PANZAZO: a running belly-first body slam forward",
+}
+
+CHARACTERS["bailarina"] = {
+    "name": "CAFECITA",
+    "subtitle": "BAILARINA BRAINROT",
+    "look": ("An ORIGINAL Italian-brainrot style surreal character, Mexican edition: a slim ballerina whose HEAD is a "
+             "small brown clay 'jarrito' pot of cafe de olla with painted white flowers and steam rising from the top "
+             "(two cute eyes and a smile painted on the pot), a pink tutu decorated with colourful papel picado "
+             "patterns, a pink leotard, long thin legs with pink ballet pointe shoes tied with ribbons, and a cinnamon "
+             "stick held in her RIGHT hand like a dagger. Graceful ballet body language: pirouettes, arabesques, "
+             "pointed toes, absurd and creepy at the same time."),
+    "weapon": "cinnamon stick",
+    "special": "PIRUETA DE OLLA: a fast spinning pirouette that travels forward with scalding coffee spraying out",
+}
+
 # Limb-loss variants. Arms are lost free arm first, then the weapon arm; legs left first, then right.
 VARIANTS = {
     "full": "",

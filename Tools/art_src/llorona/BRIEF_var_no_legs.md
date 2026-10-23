@@ -23,6 +23,8 @@ La Llorona, the Mexican weeping ghost woman, an ORIGINAL character design: tall 
 - Same character, same size, same palette in every frame and in every image. Consecutive frames differ only by a
   small, smooth change of pose so the animation is fluid. Loops connect the last frame back to the first.
 - No text, labels, numbers, cast shadows, floor texture or scenery.
+- The guides do not have to survive pixel-perfect: if the generator shifts or redraws them slightly, SAVE the
+  image anyway (the game detects the guides). Only reject a result when a frame is missing or two frames merge.
 
 ## Style
 Detailed 16-bit arcade fighting-game pixel art (Mortal Kombat II / Street Fighter Alpha era sprites): crisp hard
